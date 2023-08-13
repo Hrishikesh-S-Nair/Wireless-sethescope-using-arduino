@@ -42,7 +42,7 @@ The mobile application receives the audio data and visualizes it in real-time, a
 
 The assembly of the DIY Wireless Digital Stethoscope involves connecting the hardware components, uploading the firmware to the Arduino, and building the mobile application.
 
-1. Connect the microphone sensor and Bluetooth module to the Arduino board.
+1. Connect the Pulse Sensor - SEN-11574 and Bluetooth module to the Arduino board.
 2. Upload the Arduino firmware to the board using the Arduino IDE.
 3. Build the mobile application using a suitable framework (e.g., Flutter, React Native).
 4. Pair the Bluetooth module with the mobile device and launch the app.
